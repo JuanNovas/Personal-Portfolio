@@ -208,7 +208,7 @@ h1 {
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .projects__title {
@@ -280,6 +280,7 @@ h1 {
     flex-flow: column nowrap;
     align-items: center;
     padding: 200px;
+    margin-top: 200px
 }
 
 .certificates__title {
