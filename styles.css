@@ -346,6 +346,10 @@ h1 {
     .all-certificates__container {
         grid-template-columns: repeat(1, 300px);
     }
+
+    .certificates {
+        margin-top: 200px;
+    }
 }
 
 /* FOOTER */
